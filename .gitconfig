@@ -1,0 +1,13 @@
+[user]
+    name = michaelmcmanus
+    email = michael@cfo-one.com.au
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = simple
